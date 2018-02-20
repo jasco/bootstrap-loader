@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-loader",
   "version": "2.2.0",
-  "description": "Boostrap for Webpack",
+  "description": "Bootstrap for Webpack",
   "main": "loader.js",
   "scripts": {
     "test": "babel-tape-runner node_package/tests/**/*.test.js | tap-spec",
